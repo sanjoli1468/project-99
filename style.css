@@ -1,0 +1,44 @@
+#img1{
+    width: 400px;
+    height: 300px;;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+    border: 10px;
+}
+#img2{
+    width: 400px;
+    height: 300px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+#img3{
+    width: 400px;
+    height: 250px;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+#camera{
+    width:360px;
+    height: 250px;
+    border:1px solid black;
+}
+img:hover{
+    border-radius:125px; 
+}
+#h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: cursive;
+}
+#h3{
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: 800;
+}
+#body1{
+    background-color: #acafb5;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
